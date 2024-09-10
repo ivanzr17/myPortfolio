@@ -36,7 +36,7 @@ const Navbar = () => {
             href="https://www.linkedin.com/in/ivanzafrarendal/"
             target="_blank"
           >
-            <Image src="/github.png" width={32} height={32} alt="Github" />
+            <Image src="/linkedin.png" width={32} height={32} alt="Github" />
           </a>
         </div>
       </div>

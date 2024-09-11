@@ -19,6 +19,7 @@ const Projects = () => {
           src="/ShareTrips.png"
           title="Share Trips"
           description="Proyecto en grupo para crear y compartir tus rutas de viaje."
+          link="https://github.com/ivanzr17/Sharetrips-Beta"
         />
       </div>
     </div>

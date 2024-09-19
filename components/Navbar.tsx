@@ -5,10 +5,7 @@ const Navbar = () => {
   return (
     <div className="fixed top-0 z-50 h-[65px] w-full bg-[#03001417] px-2 py-10 shadow-lg shadow-[#2A0E61]/50 backdrop-blur-md md:px-5 md:py-0">
       <div className="flex h-full w-full flex-row items-center justify-between px-[10px] md:justify-between">
-        <a
-          href="#about-me"
-          className="flex h-auto w-auto flex-row items-center"
-        >
+        <a href="/" className="flex h-auto w-auto flex-row items-center">
           <span className="ml-[10px] hidden font-bold text-gray-300 lg:block">
             Ivazr Dev
           </span>

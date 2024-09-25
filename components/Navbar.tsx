@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="flex h-full w-full flex-row items-center justify-between px-[10px] md:justify-between">
         <a href="/" className="flex h-auto w-auto flex-row items-center">
           <span className="ml-[10px] hidden font-bold text-gray-300 lg:block">
-            Ivazr Dev
+            Ivanzr Dev
           </span>
         </a>
 

@@ -21,6 +21,12 @@ const Projects = () => {
           description="Proyecto en grupo para crear y compartir tus rutas de viaje."
           link="https://github.com/ivanzr17/Sharetrips-Beta"
         />
+        <ProjectCard
+          src="/gatopicon.webp"
+          title="Novice Devs"
+          description="Web dedicada a la colaboración entre nuevos desarrolladores para mejorar tanto skills técnicas como trabajo en equipo"
+          link="null"
+        />
       </div>
     </div>
   );

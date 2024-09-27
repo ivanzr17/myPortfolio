@@ -18,7 +18,7 @@ const Projects = () => {
         <ProjectCard
           src="/ShareTrips.png"
           title="Share Trips"
-          description="Proyecto en grupo para crear y compartir tus rutas de viaje."
+          description="Aplicación para crear y compartir rutas de viaje."
           link="https://github.com/ivanzr17/Sharetrips-Beta"
         />
         <ProjectCard

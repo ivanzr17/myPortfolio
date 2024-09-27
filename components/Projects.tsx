@@ -19,7 +19,7 @@ const Projects = () => {
           src="/ShareTrips.png"
           title="Share Trips"
           description="Aplicación para crear y compartir rutas de viaje."
-          link="https://github.com/ivanzr17/Sharetrips-Beta"
+          link="https://github.com/ivanzr17/Sharetrips-Beta/blob/main/README.md"
         />
         <ProjectCard
           src="/gatopicon.webp"

@@ -17,7 +17,7 @@ const Projects = () => {
       <div className="flex h-full w-full flex-col items-center justify-center gap-10 px-10 md:flex-row">
         <ProjectCard
           src="/ShareTrips.png"
-          title="Collab Juniors"
+          title="Share Trips"
           description="Aplicación para crear y compartir rutas de viaje."
           link="https://github.com/ivanzr17/Sharetrips-Beta/blob/main/README.md"
         />

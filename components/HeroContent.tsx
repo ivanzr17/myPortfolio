@@ -36,7 +36,7 @@ const HeroContent = () => {
 
         <motion.a
           variants={slideInFromLeft(0.5)}
-          href="/IvanZafraRendalResume.pdf"
+          href="https://app.enhancv.com/share/0c4081a0/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic"
           target="_blank"
           className="button-primary max-w-[200px] cursor-pointer rounded-lg py-2 text-center text-white"
         >

@@ -18,14 +18,14 @@ const Projects = () => {
         <ProjectCard
           src="/ShareTrips.png"
           title="Share Trips"
-          description="Aplicación para crear y compartir rutas de viaje."
+          description="Los usuarios pueden crear rutas utilizando la API de Google Maps, agregar imágenes de los lugares visitados y compartir sus itinerarios con otros. También pueden buscar itinerarios de otros usuarios y ver perfiles, fomentando el intercambio de experiencias y la exploración de nuevas rutas."
           link="https://github.com/ivanzr17/Sharetrips-Beta/blob/main/README.md"
         />
         <ProjectCard
-          src="/gatopicon.webp"
-          title="Novice Devs"
+          src="/letcolabodev.jpg"
+          title="Let colabodev"
           description="Web dedicada a la colaboración entre nuevos desarrolladores para mejorar tanto skills técnicas como trabajo en equipo"
-          link="null"
+          link="https://letcolabodev.vercel.app/"
         />
       </div>
     </div>
